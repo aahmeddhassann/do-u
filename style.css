@@ -39,8 +39,10 @@ body {
 }
 
 .question {
-  font-size: 30px;
-  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 1.3rem;
 }
 .button-container {
   display: flex;
