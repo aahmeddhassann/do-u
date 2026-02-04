@@ -25,7 +25,8 @@ body {
 .question-container {
   position: absolute;
   top: 40%;
-  left: 50%;
+  left: 45%;
+  width: 75%;
   transition: 0.2s;
 }
 .local-gif {
@@ -38,7 +39,7 @@ body {
 }
 
 .question {
-  font-size: 1.5rem;
+  font-size: 30px;
   margin-bottom: 1rem;
 }
 .button-container {
